@@ -1,0 +1,6 @@
+{
+    "nav": { "home": "Acasă", "about": "Despre", "en": "EN", "ro": "RO" },
+    "home": { "title": "Bun venit", "body": "Aceasta este pagina de start." },
+    "about": { "title": "Despre", "body": "Aceasta este pagina despre." }
+  }
+  
